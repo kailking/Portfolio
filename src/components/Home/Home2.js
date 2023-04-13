@@ -59,9 +59,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>找到我们：广东省惠州市惠城区和畅五路西10号港澳青年创业基地906</h1>
+            <h1>找到我们：</h1>
             <p>
-              请随时 <span className="purple">联系我们 </span>
+              请随时联系我们: <span className="purple">广东省惠州市惠城区和畅五路西10号港澳青年创业基地906 </span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
