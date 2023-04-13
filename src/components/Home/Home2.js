@@ -16,40 +16,39 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+               <span className="purple"> 自我介绍 </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              我们是一家中外合资的互联网公司，主营业务是能源监测系统、能源类咨询，为客户提供全面的综合能源软件服务 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />涵盖了
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> 监测、辅助管理、能源优化、节能减碳等 </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              我们拥有一支技术过硬、经验丰富的团队 &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">秉承“客户至上，合作共赢”的理念 </b> 致力
+                于为客户提供优质的服务{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                助力客户实现数码化和智能化升级。
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              如果您在寻找一个中外合资的综合能源软件服务公司，我们有信心能够给您提供符合您需求的解决方案。
+               {/* <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; @
               <i>
                 <b className="purple"> React.js and Next.js</b>
-              </i>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,9 +59,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>找到我们：</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              请随时 <span className="purple">联系我们 </span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
