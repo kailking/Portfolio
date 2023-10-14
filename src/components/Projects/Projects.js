@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="智慧能源系统"
               description="智慧能源系统是一种通过互联网技术对建筑物、设备、机器等能耗设备进行实时在线监测的平台。该平台可以帮助用户实现对能耗的实时监控、分析、预测和优化，从而降低能耗、提高能源利用效率、节约能源成本。"
-              ghLink="@"
-              demoLink="@"
+              // ghLink="@"
+              // demoLink="@"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="个人博客"
-              description="个人博客页面使用 Next.js 和 Tailwind Css 构建，它从 makdown 文件中获取内容并使用 Next.js 呈现它。支持深色模式，使用markdown轻松写博客。"
-              ghLink="@"
-              demoLink="@"
+              title="区块链数字版权系统"
+              description="区块链存证是指利用区块链技术对数据进行时间戳和验证的过程。通过将数据的哈希值存储在区块链上，可以确保数据的完整性和不可篡改性。区块链存证可以应用于多个领域，如知识产权保护、合同管理、溯源追踪等。"
+              // ghLink="@"
+              // demoLink="@"
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Editor.io"
               description="用于构建 README 文件的在线 Markdown 编辑器，支持 GFM、带有工具栏的自定义 Html 标签和即时预览。这两种编辑器都支持使用本地存储自动保存工作"
-              ghLink="@"
-              demoLink="@"              
+              // ghLink="@"
+              // demoLink="@"              
             />
           </Col>
 
@@ -69,9 +69,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="项目A"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="@"
+              title="语言处理模型"
+              description="使用“自然语言处理”来检测网络空间中与自残相关的帖子和用户的自杀意图，从而帮助预防自杀。"
+              // ghLink="@"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -80,10 +80,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="项目B"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="@"
+              title="人工智能识别"
+              description="智能脸部识别是一种利用人工智能技术对人脸进行识别和分析的技术。它可以通过摄像头或者图像输入，自动检测和识别人脸，并提取出人脸的特征信息。智能脸部识别技术可以应用于多个领域，如安全监控、人脸解锁、人脸支付等。"
+              // ghLink="@"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
